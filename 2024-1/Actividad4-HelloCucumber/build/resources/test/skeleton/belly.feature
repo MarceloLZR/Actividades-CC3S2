@@ -1,26 +1,21 @@
 Feature: BellyFeature
-  Scenario: eaten many cukes
-    Given I have eaten 42 cukes
-    When I wait 2 hour
-    Then my Belly should growl
 
-  Scenario: eaten many cukes and wait 2 and growl
+  Scenario: eaten many cukes and wait 2 hours and growl
     Given I have eaten 11 cukes
     When I wait 2 hour
-    Then my Belly should growl
+    Then my belly should growl
 
-  Scenario: eaten many cukes and wait 3 and growl
-    Given I have eaten 11 cukes
-    When I wait 3 hour
-    Then my Belly should growl
-
-  Scenario: eaten few cukes and not growl
-    Given I have eaten 10 cukes
-    When I wait 2 hour
-    Then my Belly should not growl
-
-  Scenario: eaten many cukes and not growl
+  Scenario: eaten 11 cukes and wait 1 hour and not growl
     Given I have eaten 11 cukes
     When I wait 1 hour
-    Then my Belly should not growl
+    Then my belly should not growl
 
+  Scenario: eaten 9 cukes and wait 2 hours and not growl
+    Given I have eaten 9 cukes
+    When I wait 2 hour
+    Then my belly should not growl
+
+  Scenario: eaten 9 cukes and wait 1 hour and not growl
+    Given I have eaten 9 cukes
+    When I wait 1 hour
+    Then my belly should not growl
