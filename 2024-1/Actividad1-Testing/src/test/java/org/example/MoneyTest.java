@@ -2,7 +2,7 @@ package org.example;
 import org.junit.jupiter.api.Test;//permite la anotacion@test de la linea test de la linea 6
 import static org.assertj.core.api.Assertions.assertThat;//importacion estatica del metodo asertThat de la clase aser asetrion
 
-public classMoneyTest {//
+public class MoneyTest {//
     @Test
     void constructorShouldSetAmountAndCurrency() {//metodo de prueba
 
