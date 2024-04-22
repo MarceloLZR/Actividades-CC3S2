@@ -1,3 +1,4 @@
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 
@@ -15,13 +16,21 @@ public class FootballTeamTest {
                 .isEqualTo(nbOfGamesWon);
 
  */
-
+/*
         @ParameterizedTest
         @ValueSource(ints = { -10, -1 })
         void constructorShouldThrowExceptionForIllegalGamesNb(int illegalNbOfGames) {
             assertThatExceptionOfType(IllegalArgumentException.class)
                         .isThrownBy(() -> { new FootballTeam(illegalNbOfGames); });
-        }
+
+ */
+
+            private static final int ANY_NUMBER = 123;
+            @Test
+            void shouldBePossibleToCompareTeams() {
+                FootballTeam team = new FootballTeam(ANY_NUMBER);
+                assertThat(team).isInstanceOf(Comparable.class);
+            }
 }
 /*public class FootballTeamTest {
     @Test

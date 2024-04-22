@@ -25,6 +25,7 @@ public class FootballTeam {
     }
 }
  */
+/*
 public class FootballTeam {
     private int gamesWon;
     public FootballTeam(int gamesWon){
@@ -40,4 +41,17 @@ public class FootballTeam {
         return gamesWon;
     }
 
+}
+ */
+public class FootballTeam implements Comparable<FootballTeam>
+{ private int gamesWon;
+    public FootballTeam(int gamesWon) {
+            this.gamesWon = gamesWon; }
+    public int getGamesWon() {
+        return gamesWon;
+    }
+    @Override
+    public int compareTo(FootballTeam otherTeam) {
+        return 0;
+    }
 }
