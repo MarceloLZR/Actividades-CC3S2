@@ -1,3 +1,3 @@
 # Actividades de desarrollo de software
 
-Actividades Realizadas en clase, los codigos han sido modificados de acuerdo a las directivas de los diferentes temas abordados
+Actividades realizadas en clase y tareas, los codigos han sido modificados de acuerdo a las directivas de los diferentes temas abordados
