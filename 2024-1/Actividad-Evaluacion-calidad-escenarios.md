@@ -1,4 +1,4 @@
-# Sitio Web Escogido: Wikipedia
+# Sitio Web Escogido: WIKIPEDIA
 
 ## Usabilidad
 En Wikipedia, la usabilidad es crucial para asegurar que los usuarios puedan encontrar fácilmente la información que están buscando. Un diseño intuitivo, una navegación clara y funcionalidades de búsqueda efectivas son fundamentales para garantizar una experiencia de usuario positiva.
