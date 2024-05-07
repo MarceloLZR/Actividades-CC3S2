@@ -1,3 +1,3 @@
 # Actividades de desarrollo de software
 
-Este repositorio acompaña, a las actividades de codificación y proyectos del curso de desarrollo de software CC-3S2.
+Actividades Realizadas en clase, los codigos han sido modificados de acuerdo a las directivas de los diferentes temas abordados
