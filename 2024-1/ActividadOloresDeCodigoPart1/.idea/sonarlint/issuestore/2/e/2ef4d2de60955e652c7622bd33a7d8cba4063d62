@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·è³Ãúÿÿÿÿ8²Íé§õ1J$83e348db-6b19-4f78-9496-ab04cae1f3b4
+m	java:S106"+Replace this use of System.out by a logger.(“–üğ8ÈÍé§õ1J$813dc3ac-1b48-4c86-aeb1-fa111c666f3e
+r	java:S106"+Replace this use of System.out by a logger.(±–ÉÏûÿÿÿÿ8ÉÍé§õ1J$e22c91c3-29ee-42c7-9950-1c42b5ffd342
+r	java:S106"+Replace this use of System.out by a logger.(­ğïıÿÿÿÿ8ÊÍé§õ1J$41e6cede-bdef-4b1b-b7ca-a14815d023a0
+r	java:S106	"+Replace this use of System.out by a logger.(Îñãİûÿÿÿÿ8ÊÍé§õ1J$54d8c997-0070-45b0-8563-bfe619873d21
+
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(õæˆB8ÎÍé§õ1J$bfcb8dc2-b303-4ad0-8468-d0087db3d24e
