@@ -4,7 +4,261 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01037b74-ae50-47b4-8024-cdea1b77e94b" name="Changes" comment="" />
+    <list default="true" id="01037b74-ae50-47b4-8024-cdea1b77e94b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Examen Parcial-CC3S2/Ejercicio 2/SPRINT1/.idea/sonarlint/issuestore/8/8/88dda632bbc0435725a134eb84f3270c479a28a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Examen Parcial-CC3S2/Ejercicio 2/SPRINT1/.idea/sonarlint/securityhotspotstore/8/8/88dda632bbc0435725a134eb84f3270c479a28a4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/.idea/damas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/7.4/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/7.4/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/7.4/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/7.4/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.idea/Sprint1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/AmericanCheckers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/classes/java/test/org/example/ClientTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/classes/java/test/org/example/MoneyIAETest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/classes/java/test/org/example/MoneyManyParamsAnnotationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/classes/java/test/org/example/MoneyManyValuesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/classes/java/test/org/example/MoneyOneParamAnnotationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/classes/java/test/org/example/MoneyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/reports/tests/test/classes/org.example.MoneyTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/reports/tests/test/packages/org.example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/test-results/test/TEST-org.example.MoneyTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/mysql-connector-java-8.0.26.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/production/business/AmericanCheckersGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/production/business/CheckersPiece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/production/business/UserAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/production/business/UserAccountManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/production/gui/AmericanCheckersGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/production/gui/EditProfileWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/production/gui/UserManagerGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/acceptanceTests/BotMoveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/acceptanceTests/CheckMoveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/acceptanceTests/CheckersBoardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/acceptanceTests/EndGameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/acceptanceTests/HopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/acceptanceTests/KingPromotionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/acceptanceTests/LoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/acceptanceTests/RegisterNewUserTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/unitTests/BotGameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/unitTests/CheckMoveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/unitTests/CheckersPiecePositionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/unitTests/EmailAddressTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/unitTests/EndGameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/unitTests/FirstNameTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/unitTests/HopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/unitTests/KingPromotionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/unitTests/LastNameTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/unitTests/PasswordTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/unitTests/PhoneNumberTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint1/src/test/unitTests/UserNameTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/AmericanCheckers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/production/business/AmericanCheckersGame$GameState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/production/business/AmericanCheckersGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/production/business/CheckersPiece.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/production/gui/AmericanCheckersGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/production/gui/AmericanCheckersGUI$GameBoardCanvas$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/production/gui/AmericanCheckersGUI$GameBoardCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/production/gui/AmericanCheckersGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/test/acceptanceTests/CheckersBoardTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/test/acceptanceTests/CheckersMoveTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/test/acceptanceTests/EndGameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/test/acceptanceTests/HopTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/test/acceptanceTests/KingPromotionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/test/unitTests/CheckersMoveTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/test/unitTests/CheckersPiecePositionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/test/unitTests/EndGameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/test/unitTests/HopTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/out/production/AmericanCheckers/test/unitTests/KingPromotionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/src/production/business/AmericanCheckersGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/src/production/business/CheckersPiece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/src/production/gui/AmericanCheckersGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/src/test/acceptanceTests/CheckersBoardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/src/test/acceptanceTests/CheckersMoveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/src/test/acceptanceTests/EndGameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/src/test/acceptanceTests/HopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/src/test/acceptanceTests/KingPromotionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/src/test/unitTests/CheckersMoveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/src/test/unitTests/CheckersPiecePositionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/src/test/unitTests/EndGameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/src/test/unitTests/HopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2/src/test/unitTests/KingPromotionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/AmericanCheckers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/production/business/AmericanCheckersGame$GameState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/production/business/AmericanCheckersGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/production/business/CheckersPiece.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/production/gui/AmericanCheckersGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/production/gui/AmericanCheckersGUI$GameBoardCanvas$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/production/gui/AmericanCheckersGUI$GameBoardCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/production/gui/AmericanCheckersGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/test/acceptanceTests/CheckersBoardTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/test/acceptanceTests/CheckersMoveTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/test/acceptanceTests/EndGameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/test/acceptanceTests/HopTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/test/acceptanceTests/KingPromotionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/test/unitTests/CheckersMoveTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/test/unitTests/CheckersPiecePositionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/test/unitTests/EndGameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/test/unitTests/HopTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/out/production/AmericanCheckers/test/unitTests/KingPromotionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/src/production/business/AmericanCheckersGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/src/production/business/CheckersPiece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/src/production/gui/AmericanCheckersGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/src/test/acceptanceTests/CheckersBoardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/src/test/acceptanceTests/CheckersMoveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/src/test/acceptanceTests/EndGameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/src/test/acceptanceTests/HopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/src/test/acceptanceTests/KingPromotionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/src/test/unitTests/CheckersMoveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/src/test/unitTests/CheckersPiecePositionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/src/test/unitTests/EndGameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/src/test/unitTests/HopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_American_Checkers_Game/src/test/unitTests/KingPromotionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint2_juego" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/.idea/libraries/mysql_connector_java_8_0_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/AmericanCheckers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/mysql-connector-java-8.0.26.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/business/AmericanCheckersGame$GameState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/business/AmericanCheckersGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/business/CheckersPiece.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/business/UserAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/business/UserAccountManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/gui/AmericanCheckersGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/gui/AmericanCheckersGUI$GameBoardCanvas$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/gui/AmericanCheckersGUI$GameBoardCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/gui/AmericanCheckersGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/gui/EditProfileWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/gui/EditProfileWindow$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/gui/EditProfileWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/gui/UserManagerGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/gui/UserManagerGUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/gui/UserManagerGUI$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/gui/UserManagerGUI$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/production/gui/UserManagerGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/acceptanceTests/BotMoveTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/acceptanceTests/CheckMoveTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/acceptanceTests/CheckersBoardTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/acceptanceTests/EndGameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/acceptanceTests/HopTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/acceptanceTests/KingPromotionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/acceptanceTests/LoginTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/acceptanceTests/RegisterNewUserTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/unitTests/BotGameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/unitTests/CheckMoveTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/unitTests/CheckersPiecePositionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/unitTests/EmailAddressTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/unitTests/EndGameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/unitTests/FirstNameTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/unitTests/HopTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/unitTests/KingPromotionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/unitTests/LastNameTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/unitTests/PasswordTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/unitTests/PhoneNumberTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/out/production/AmericanCheckers/test/unitTests/UserNameTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/production/business/AmericanCheckersGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/production/business/CheckersPiece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/production/business/UserAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/production/business/UserAccountManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/production/gui/AmericanCheckersGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/production/gui/EditProfileWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/production/gui/UserManagerGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/acceptanceTests/BotMoveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/acceptanceTests/CheckMoveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/acceptanceTests/CheckersBoardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/acceptanceTests/EndGameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/acceptanceTests/HopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/acceptanceTests/KingPromotionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/acceptanceTests/LoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/acceptanceTests/RegisterNewUserTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/unitTests/BotGameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/unitTests/CheckMoveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/unitTests/CheckersPiecePositionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/unitTests/EmailAddressTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/unitTests/EndGameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/unitTests/FirstNameTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/unitTests/HopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/unitTests/KingPromotionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/unitTests/LastNameTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/unitTests/PasswordTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/unitTests/PhoneNumberTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../damas/Sprint3_American_Checkers_game/src/test/unitTests/UserNameTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eclipse/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/85/100e0c6d7deb001e1598a685efec179c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/93/90594a4a7deb001e1598a685efec179c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/98/80067ff07deb001e1598a685efec179c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/9c/10f0106d7deb001e1598a685efec179c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/c5/8050eb587deb001e1598a685efec179c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/ea/20c976f07deb001e1598a685efec179c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/f2/00ce7df07deb001e1598a685efec179c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/PROGRAMACION_PARALELA/.indexes/e4/8b/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/PROGRAMACION_PARALELA/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/22.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eclipse/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eclipse/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../../eclipse/.metadata/version.ini" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +293,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -62,7 +316,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/User/Documents/Actividades-CC3S2/2024-1/Ejercicio1/ActividadAAA Y TDD",
+    "last_opened_file_path": "C:/Users/User/Documents/Actividades-CC3S2/2024-1/ActividadAAA Y TDD",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -215,6 +469,7 @@
       <workItem from="1712755859166" duration="1701000" />
       <workItem from="1712757600019" duration="329000" />
       <workItem from="1712760066692" duration="69000" />
+      <workItem from="1715178792648" duration="42000" />
     </task>
     <servers />
   </component>

@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01037b74-ae50-47b4-8024-cdea1b77e94b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/MoneyOneParamAnnotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/MoneyOneParamAnnotationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/MoneyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/MoneyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ActividadAAA Y TDD/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ActividadAAA Y TDD/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ActividadAAA Y TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ActividadAAA Y TDD/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +76,9 @@
       <workItem from="1712415006891" duration="3667000" />
       <workItem from="1712454502624" duration="83000" />
       <workItem from="1712548674658" duration="170000" />
+      <workItem from="1716831720409" duration="471000" />
+      <workItem from="1716832641987" duration="12000" />
+      <workItem from="1717437426307" duration="39000" />
     </task>
     <servers />
   </component>
